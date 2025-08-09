@@ -16,8 +16,8 @@
 - Sharpening machine learning fundamentals  
 
 ## 📫 Let's Connect  
-- LinkedIn: https://www.linkedin.com/in/balikis-titilope(#)  
-- Email: titilopebalikis806@gmail.com(#)  
+- LinkedIn: https://www.linkedin.com/in/balikis-titilope
+- Email: titilopebalikis806@gmail.com 
  
 
 

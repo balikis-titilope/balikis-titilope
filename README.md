@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Balikis 👋  
 
-<!--
-**balikis-titilope/balikis-titilope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Data Scientist** passionate about turning raw data into meaningful insights.  
+📊 Skilled in **Python**, **Power BI**, and **Excel** for analytics, visualization, and reporting.  
+🚀 Always learning, exploring, and applying data-driven solutions to real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Data Analysis:** Excel, SQL  
+- **Other Tools:** Git, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus  
+- Building insightful dashboards with Power BI  
+- Exploring advanced Python data analysis techniques  
+- Sharpening machine learning fundamentals  
+
+## 📫 Let's Connect  
+- LinkedIn: https://www.linkedin.com/in/balikis-titilope(#)  
+- Email: titilopebalikis806@gmail.com(#)  
+ 
+
+
+⭐ *“Data is the new oil, but it’s the insight that fuels the future.”*  
+
+
